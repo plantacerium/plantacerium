@@ -21,7 +21,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Greenmerald](https://github.com/plantacerium/greenmerald-tui-markdown-renderer)** | **Developer Experience TUI** | Bringing elegance to the terminal. A high-performance file explorer and renderer. |
 | **[Code Lumer](https://github.com/plantacerium/CodeLumer)** | **App & Tooling** | Illuminating code with high resolutions code snapshots and experience the dual camera. |
 | **[Quantum Chronometer](https://github.com/plantacerium/QuantumChronometerEmojinator)** | **Precision & UI Experimentation** | A showcase of quantum state management and creative UI interactions. |
-| **[Automated Codebase Demos](https://github.com/plantacerium/PowererPointererSIlice)** | **Automation Codebase Demos** | Your Codebase, Narrated by AI, Rendered in a Beautiful Slide Presentation |
+| **[Powerer Pointerer Silice](https://github.com/plantacerium/PowererPointererSIlice)** | **Automation Codebase Demos** | Your Codebase, Narrated by AI, Rendered in a Beautiful Slide Presentation |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
