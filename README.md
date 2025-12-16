@@ -23,7 +23,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Code Lumer](https://github.com/plantacerium/CodeLumer)** | **App & Tooling** | Illuminating code with high resolutions code snapshots and experience the dual camera. |
 | **[Quantum Chronometer](https://github.com/plantacerium/QuantumChronometerEmojinator)** | **Precision & UI Experimentation** | A showcase of quantum state management and creative UI interactions. |
 | **[Powerer Pointerer Silice](https://github.com/plantacerium/PowererPointererSIlice)** | **Automation Codebase Demos** | Your Codebase, Narrated by AI, Rendered in a Beautiful Slide Presentation. |
-| **[Cyber Walk Zola Theme](https://github.com/plantacerium/zola-theme-cyber-walk)** | **Terminal Theme** | Digital workspace designed for those who communicate through code. |
+| **[Cyber Walk Zola Theme](https://github.com/plantacerium/zola-theme-cyber-walk)** | **Blog Terminal Theme** | Digital workspace designed for those who communicate through code. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
