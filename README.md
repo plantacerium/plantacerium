@@ -25,6 +25,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Powerer Pointerer Silice](https://github.com/plantacerium/PowererPointererSIlice)** | **Automation Codebase Demos** | Your Codebase, Narrated by AI, Rendered in a Beautiful Slide Presentation. |
 | **[Cyber Walk Zola Theme](https://github.com/plantacerium/zola-theme-cyber-walk)** | **Blog Terminal Theme** | Digital workspace designed for those who communicate through code. |
 | **[Power Matrix Rain](https://github.com/plantacerium/PowerMatrixRain)** | **Program Your Reality** | Programmable visualization engine. Built with the raw power of Rust and WGPU. |
+| **[Chronos Aeternum](https://github.com/plantacerium/ChronosAeternum)** | **Sacred Horological Instrument** | Meditative interface for anchoring your consciousness in the void. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
