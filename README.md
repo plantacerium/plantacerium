@@ -27,7 +27,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Power Matrix Rain](https://github.com/plantacerium/PowerMatrixRain)** | **Program Your Reality** | Programmable visualization engine. Built with the raw power of Rust and WGPU. |
 | **[Chronos Aeternum](https://github.com/plantacerium/ChronosAeternum)** | **Sacred Horological Instrument** | Meditative interface for anchoring your consciousness in the void. |
 | **[Tribal Markdown Viewer](https://github.com/plantacerium/TribalMarkdownViewer)** | **Book Reader** | Professional grade desktop application designed to provide a high-fidelity reading experience of your Markdown files. |
-| **[Mayan Calendar](https://github.com/plantacerium/MayanCalendar)** | **Cycles of Cycles** | Mayan Stele - Ultimate Calendar & Fractal Pattern Analyzer. |
+| **[Mayan Calendar](https://github.com/plantacerium/MayanCalendar)** | **Cycles of Cycles** | Mayan Stele - Ultimate Calendar & Fractal Pattern Analyzer. Time is a spiral of cycles within cycles. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
