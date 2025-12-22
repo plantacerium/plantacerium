@@ -26,6 +26,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Cyber Walk Zola Theme](https://github.com/plantacerium/zola-theme-cyber-walk)** | **Blog Terminal Theme** | Digital workspace designed for those who communicate through code. |
 | **[Power Matrix Rain](https://github.com/plantacerium/PowerMatrixRain)** | **Program Your Reality** | Programmable visualization engine. Built with the raw power of Rust and WGPU. |
 | **[Chronos Aeternum](https://github.com/plantacerium/ChronosAeternum)** | **Sacred Horological Instrument** | Meditative interface for anchoring your consciousness in the void. |
+| **[Tribal Markdown Viewer](https://github.com/plantacerium/TribalMarkdownViewer)** | **Book Reader** | Professional grade desktop application designed to provide a high-fidelity reading experience of your Markdown files. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
