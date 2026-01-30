@@ -29,6 +29,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Tribal Markdown Viewer](https://github.com/plantacerium/TribalMarkdownViewer)** | **Book Reader** | Professional grade desktop application designed to provide a high-fidelity reading experience of your Markdown files. |
 | **[Mayan Calendar](https://github.com/plantacerium/MayanCalendar)** | **Cycles of Cycles** | Mayan Stele - Ultimate Calendar & Fractal Pattern Analyzer. Time is a spiral of cycles within cycles. |
 | **[Storyteller Sound Board](https://github.com/plantacerium/SoundBoardStorytelling)** | **Deep Space Ambient** | Turn your storytelling sessions into immersive auditory journeys. |
+| **[Ripple Oscilloscope](https://github.com/plantacerium/RippleOscilloscope)** | **Audio Visualizer** | Pushing the boundaries of web graphics by combining Rust, WebGPU and Web. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
