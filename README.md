@@ -31,6 +31,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Storyteller Sound Board](https://github.com/plantacerium/SoundBoardStorytelling)** | **Deep Space Ambient** | Turn your storytelling sessions into immersive auditory journeys. |
 | **[Ripple Oscilloscope](https://github.com/plantacerium/RippleOscilloscope)** | **Audio Visualizer** | Pushing the boundaries of web graphics by combining Rust, WebGPU and Web. |
 | **[Silicio Socratico](https://github.com/plantacerium/SilicioSocratico)** | **Thinking Code** | Intelligence Configuration, Socratic Agent, Get Domain Knowledge. |
+| **[Silice Code Base Mapper](https://github.com/plantacerium/SIliceCodeBaseMapper)** | **Codebase to Knowledge Graph** | It transforms codebases into a Structured Knowledge Graph optimized for LLMs ingestion. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
