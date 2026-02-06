@@ -16,6 +16,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | :--- | :--- | :--- |
 | **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio.
 | **[GoLuminamics](https://github.com/plantacerium/GoLuminamics)** | **Game & Computation** | Strategic Board Game Where Light Becomes Your Path To Victory. |
+| **[GeoLuminamics](https://github.com/plantacerium/GeoLuminamics)** | **Creative Geometry Light Engine** | It is the space where logic dissolves into luminosity, inviting the creator into a state of flow. |
 | **[Silice Protocol](https://github.com/plantacerium/SiliceProtocol)** | **AI Infrastructure & Standards** | Low level protocol designed for high efficiency AI agentic developments. |
 | **[Cogni Trace](https://github.com/plantacerium/CogniTrace)** | **Debug & Intelligence** | Observability tool that transforms runtime data into actionable system AI intelligence. |
 | **[Greenmerald](https://github.com/plantacerium/greenmerald-tui-markdown-renderer)** | **Developer Experience TUI** | Bringing elegance to the terminal. A high-performance file explorer and renderer. |
