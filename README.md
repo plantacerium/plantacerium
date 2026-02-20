@@ -14,7 +14,8 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
-| **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio.
+| **[La Colisión de los Tres Ángulos](https://github.com/plantacerium/La-Colision-de-los-Tres-Angulos)** | **Meditación** | Una epopeya de autodescubrimiento, geometría del alma y evolución espiritual a través de múltiples planos y realidades. |
+| **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio. |
 | **[GoLuminamics](https://github.com/plantacerium/GoLuminamics)** | **Game & Computation** | Strategic Board Game Where Light Becomes Your Path To Victory. |
 | **[GeoLuminamics](https://github.com/plantacerium/GeoLuminamics)** | **Creative Geometry Light Engine** | It is the space where logic dissolves into luminosity, inviting the creator into a state of flow. |
 | **[Silice Protocol](https://github.com/plantacerium/SiliceProtocol)** | **AI Infrastructure & Standards** | Low level protocol designed for high efficiency AI agentic developments. |
