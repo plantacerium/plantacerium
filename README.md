@@ -15,6 +15,7 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
 | **[Metamorphic Resonance Human Language Gamers](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers)** | **Language Meditators Gamers Legends** | ⊛ Consciousness Architecture ⊛ |
+| **[Metamorphic Resonance Human Language Gamers Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules Schemas.json and Games.json** | Fork, Pull Request, Contribute, License MIT. |
 | **[La Colisión de los Tres Ángulos](https://github.com/plantacerium/La-Colision-de-los-Tres-Angulos)** | **Meditación** | Una epopeya de autodescubrimiento, geometría del alma y evolución espiritual a través de múltiples planos y realidades. |
 | **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio. |
 | **[GoLuminamics](https://github.com/plantacerium/GoLuminamics)** | **Game & Computation** | Strategic Board Game Where Light Becomes Your Path To Victory. |
