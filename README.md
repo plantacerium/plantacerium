@@ -30,12 +30,16 @@ I build ecosystems, not just repositories. Here is how my current architecture d
 | **[Cyber Walk Zola Theme](https://github.com/plantacerium/zola-theme-cyber-walk)** | **Blog Terminal Theme** | Digital workspace designed for those who communicate through code. |
 | **[Power Matrix Rain](https://github.com/plantacerium/PowerMatrixRain)** | **Program Your Reality** | Programmable visualization engine. Built with the raw power of Rust and WGPU. |
 | **[Chronos Aeternum](https://github.com/plantacerium/ChronosAeternum)** | **Sacred Horological Instrument** | Meditative interface for anchoring your consciousness in the void. |
+| **[Chronos Aeternum Zen](https://github.com/plantacerium/ChronosAeternumZen)** | **The Meditative Brush of Time** | It transforms the passage of time into an organic, ink-brushed archive of human consciousness. It is a Digital Zen Sanctuary where time is not a deadline, but a descending spiral of depth and presence. |
+| **[Chronos Aeternum TUI](https://github.com/plantacerium/ChronosAeternumTUI)** | **The Meditative Breath of Time** | It ransform the ephemeral passage of time into a permanent inventory of human experience. |
 | **[Tribal Markdown Viewer](https://github.com/plantacerium/TribalMarkdownViewer)** | **Book Reader** | Professional grade desktop application designed to provide a high-fidelity reading experience of your Markdown files. |
 | **[Mayan Calendar](https://github.com/plantacerium/MayanCalendar)** | **Cycles of Cycles** | Mayan Stele - Ultimate Calendar & Fractal Pattern Analyzer. Time is a spiral of cycles within cycles. |
 | **[Storyteller Sound Board](https://github.com/plantacerium/SoundBoardStorytelling)** | **Deep Space Ambient** | Turn your storytelling sessions into immersive auditory journeys. |
 | **[Ripple Oscilloscope](https://github.com/plantacerium/RippleOscilloscope)** | **Audio Visualizer** | Pushing the boundaries of web graphics by combining Rust, WebGPU and Web. |
 | **[Silicio Socratico](https://github.com/plantacerium/SilicioSocratico)** | **Thinking Code** | Intelligence Configuration, Socratic Agent, Get Domain Knowledge. |
 | **[Silice Code Base Mapper](https://github.com/plantacerium/SIliceCodeBaseMapper)** | **Codebase to Knowledge Graph** | It transforms codebases into a Structured Knowledge Graph optimized for LLMs ingestion. |
+| **[Resonant Planet](https://github.com/plantacerium/ResonantPlanet)** | **Biósfera sónica interactiva** | Transforma archivos de audio y texto en capas geológicas de un planeta de conciencia. |
+| **[Gaia Human Synapse](https://github.com/plantacerium/GaiaHumanSynapse)** | **Protocolo de CoEvolución Biodigital** | El software es el micelio de la mente; el hardware es la tierra de Gaia. Nosotros somos la sinapsis que permite al planeta soñar en binario. |
 ---
 
 ## 🧬 Technical DNA & Capability Matrix
