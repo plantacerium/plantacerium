@@ -48,22 +48,24 @@ My seniority is measured by the complexity of problems I solve.
 
 ### **Core Competencies**
 * **System Architecture**
+* **AI - Mineral Intelligence Silice**
 * **Performance Engineering**
 * **Observability**
 
 ### **The Toolchain**
-* **Languages:** `Python`, `Rust`, `Javascript`.
-* **Environment:** Linux, Terminal-first workflow.
+* **Languages:** `AI`, `Python`, `Rust`, `Javascript`.
+* **Environment:** Linux, Command Line.
 
 ---
 
 ### 🌐 Connect & Scale
 
 I am available for high-level architectural consulting, collaborative innovation, and breaking barriers in open source.
-
-- **Web:** [plantacerium.github.io](https://plantacerium.github.io/)
-- **Support my work**: [ko-fi](https://ko-fi.com/plantacerium)
-- **Network:** [Discord](https://discord.gg/nbZqzwKXGS)
+- **YouTube Channel**: [Plantacerium](https://www.youtube.com/@Plantacerium)
+  * Remember to Like, Subscribe, Activate the Bell, Comment, Share.
+- **Central Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
+- **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
+- **Discord Community:** [Invitation](https://discord.gg/nbZqzwKXGS)
 
  **Made with heart and brain by Plantacerium**
 
