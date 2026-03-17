@@ -10,7 +10,7 @@ My approach is one: **Dream Big, Execute Immediately.** I don't wait for the fut
 
 ## 🏛 The Portfolio
 
-I build ecosystems, not just repositories. Here is how my current architecture drives impact across the stack.
+I build cosmos, not just repositories. Here is how my current architecture drives impact across the stack.
 
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
