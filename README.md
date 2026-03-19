@@ -17,6 +17,7 @@ I build cosmos, not just repositories. Here is how my current architecture drive
 | **[Metamorphic Resonance Human Language Gamers](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers)** | **Language Meditators Gamers Legends** | ⊛ Consciousness Architecture ⊛ |
 | **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
 | **[La Colisión de los Tres Ángulos](https://github.com/plantacerium/La-Colision-de-los-Tres-Angulos)** | **Meditación** | Una epopeya de autodescubrimiento, geometría del alma y evolución espiritual a través de múltiples planos y realidades. |
+| **[Anima Essentia](https://github.com/plantacerium/Anima-Essentia)** | **Animales / Consciencias** | Software creado para protectoras de animales para crear fichas de adopción perfiles cognitivos y espirituales. |
 | **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio. |
 | **[GoLuminamics](https://github.com/plantacerium/GoLuminamics)** | **Game & Computation** | Strategic Board Game Where Light Becomes Your Path To Victory. |
 | **[GeoLuminamics](https://github.com/plantacerium/GeoLuminamics)** | **Creative Geometry Light Engine** | It is the space where logic dissolves into luminosity, inviting the creator into a state of flow. |
