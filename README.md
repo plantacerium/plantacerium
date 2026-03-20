@@ -18,6 +18,9 @@ I build cosmos, not just repositories. Here is how my current architecture drive
 | **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
 | **[La Colisión de los Tres Ángulos](https://github.com/plantacerium/La-Colision-de-los-Tres-Angulos)** | **Meditación** | Una epopeya de autodescubrimiento, geometría del alma y evolución espiritual a través de múltiples planos y realidades. |
 | **[Anima Essentia](https://github.com/plantacerium/Anima-Essentia)** | **Animales / Consciencias** | Software creado para protectoras de animales para crear fichas de adopción perfiles cognitivos y espirituales. |
+| **[Stelar Nexus Records](https://github.com/plantacerium/The-Stelar-Nexus-Records)** | **Museum Art Gallery** |  High fidelity, immersive 3D web, it transforms GitHub repository data into a celestial constellation of interactive DNA double helixes. |
+| **[Organic Craft Markers](https://github.com/plantacerium/Organic-Craft-Markers)** | **Inmmersive Web Experiences** | High tier, interactive image marker and data visualization tool. Designed with cutting-edge UI/UX principles. |
+| **[The Mandala Weaver](https://github.com/plantacerium/The-Mandala-Weaver)** | **Emmanation Outer Inner Writing** | Fundamental shift in the architecture of writing human expression. |
 | **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio. |
 | **[GoLuminamics](https://github.com/plantacerium/GoLuminamics)** | **Game & Computation** | Strategic Board Game Where Light Becomes Your Path To Victory. |
 | **[GeoLuminamics](https://github.com/plantacerium/GeoLuminamics)** | **Creative Geometry Light Engine** | It is the space where logic dissolves into luminosity, inviting the creator into a state of flow. |
