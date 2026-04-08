@@ -16,6 +16,7 @@ I build cosmos, not just repositories. Here is how my current architecture drive
 | :--- | :--- | :--- |
 | **[Metamorphic Resonance Human Language Gamers](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers)** | **Language Meditators Gamers Legends** | ⊛ Consciousness Architecture ⊛ |
 | **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
+| **[Git AST Search](https://github.com/plantacerium/Git-AST-Search)** | **Search Code & Patterns Across Git History** |  Git AST Search es una herramienta de terminal (TUI) de alto rendimiento diseñada para la minería de código histórica, mediante Análisis de Árboles de Sintaxis Abstracta. |
 | **[La Colisión de los Tres Ángulos](https://github.com/plantacerium/La-Colision-de-los-Tres-Angulos)** | **Meditación** | Una epopeya de autodescubrimiento, geometría del alma y evolución espiritual a través de múltiples planos y realidades. |
 | **[Anima Essentia](https://github.com/plantacerium/Anima-Essentia)** | **Animales / Consciencias** | Software creado para protectoras de animales para crear fichas de adopción perfiles cognitivos y espirituales. |
 | **[Stelar Nexus Records](https://github.com/plantacerium/The-Stelar-Nexus-Records)** | **Museum Art Gallery** |  High fidelity, immersive 3D web, it transforms GitHub repository data into a celestial constellation of interactive DNA double helixes. |
