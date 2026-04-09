@@ -1,14 +1,14 @@
-# ⚡ Architect. Engineer. Strategist. Plantacerium.
+# Plantacerium Architect Engineer Strategist.
 
 ### *Precision Engineering. Immediate Scale. Unbounded Vision.*
 
 I am a **Senior Software Engineer** who operates where "impossible" meets "deployed." Since day one, I have owned the lifecycle of my software from the initial spark of a bold idea to the concrete execution of resilient systems.
 
-My approach is one: **Dream Big, Execute Immediately.** I don't wait for the future; I compile it.
+One of my approachs: **Dream Big, Execute Immediately.** I don't wait for the future; I compile it.
 
 ---
 
-## 🏛 The Portfolio
+## The Portfolio
 
 I build cosmos, not just repositories. Here is how my current architecture drives impact across the stack.
 
@@ -47,7 +47,7 @@ I build cosmos, not just repositories. Here is how my current architecture drive
 | **[Gaia Human Synapse](https://github.com/plantacerium/GaiaHumanSynapse)** | **Protocolo de CoEvolución Biodigital** | El software es el micelio de la mente; el hardware es la tierra de Gaia. Nosotros somos la sinapsis que permite al planeta soñar en binario. |
 ---
 
-## 🧬 Technical DNA & Capability Matrix
+## Technical DNA & Capability Matrix
 
 My seniority is measured by the complexity of problems I solve.
 
@@ -59,19 +59,19 @@ My seniority is measured by the complexity of problems I solve.
 
 ### **The Toolchain**
 * **Languages:** `AI`, `Python`, `Rust`, `Javascript`.
-* **Environment:** Linux, Command Line.
+* **Environment:** `Linux`, `Command Line`.
 
 ---
 
-### 🌐 Connect & Scale
+### Connect & Scale
 
 I am available for high-level architectural consulting, collaborative innovation, and breaking barriers in open source.
 - **YouTube Channel**: [Plantacerium](https://www.youtube.com/@Plantacerium)
   * Remember to Like, Subscribe, Activate the Bell, Comment, Share.
-- **Central Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
+- **Spaceship Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
 - **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
 - **Discord Community:** [Invitation](https://discord.gg/nbZqzwKXGS)
 
  **Made with heart and brain by Plantacerium**
 
-⭐ **Push The Stars on my GitHub Repositories** ⭐
+**Push The Stars on my GitHub Repositories**
