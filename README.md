@@ -2,14 +2,16 @@
 
 ### *Precision Engineering. Immediate Scale. Unbounded Vision.*
 
-I am a **Senior Software Engineer** who operates where "impossible" meets "deployed." Since day one, I have owned the lifecycle of my software from the initial spark of a bold idea to the concrete execution of resilient systems.
+I am a **Senior Software Engineer** who operates where "impossible" meets "deployed".
+Since day one, I have owned the lifecycle of my software from the initial spark of a bold idea to the concrete execution of resilient systems.
 
 One of my approachs: **Dream Big, Execute Immediately.** I compile the future in the now.
 
 ---
 
 ## The Portfolio
-I am creating repositories that act as cosmos to expanse human consciousness. Here is how my current architecture drives impact across the stack.
+I am creating repositories that act as cosmos to expanse human consciousness.
+Here is how my current architecture drives impact across the stack.
 
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
