@@ -69,12 +69,11 @@ My seniority is measured by the complexity of problems I solve.
 ### Connect & Scale
 
 I am available for high-level architectural consulting, collaborative innovation, and breaking barriers in open source.
+- **Spaceship Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
 - **YouTube Channel**: [Plantacerium](https://www.youtube.com/@Plantacerium)
   * Remember to Like, Subscribe, Activate the Bell, Comment, Share.
-- **Spaceship Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
 - **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
 - **Podcast en Español**: [Plantacerium on Spotify](https://open.spotify.com/show/5PQbYj4YSeRVAOLJ5u5DYR)
-- **Discord Community:** [Community Invitation](https://discord.gg/nbZqzwKXGS)
 
  **Made with heart and brain by Plantacerium**
 
