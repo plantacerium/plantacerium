@@ -11,7 +11,7 @@ One of my approachs: **Dream Big, Execute Immediately.** I compile the future in
 ---
 
 ## The Portfolio
-I am creating repositories that act as cosmos to expanse human consciousness.
+I am creating repositories that act as cosmos to expanse human consciousness, creativity, cognition, connection.
 
 Here is how my current architecture drives impact across the stack.
 
@@ -73,7 +73,8 @@ I am available for high-level architectural consulting, collaborative innovation
   * Remember to Like, Subscribe, Activate the Bell, Comment, Share.
 - **Spaceship Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
 - **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
-- **Discord Community:** [Invitation](https://discord.gg/nbZqzwKXGS)
+- **Podcast en Español**: [Plantacerium on Spotify](https://open.spotify.com/show/5PQbYj4YSeRVAOLJ5u5DYR)
+- **Discord Community:** [Community Invitation](https://discord.gg/nbZqzwKXGS)
 
  **Made with heart and brain by Plantacerium**
 
