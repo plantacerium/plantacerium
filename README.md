@@ -47,7 +47,7 @@ Here is how my current architecture drives impact across the stack.
 | **[Ripple Oscilloscope](https://github.com/plantacerium/RippleOscilloscope)** | **Audio Visualizer** | Pushing the boundaries of web graphics by combining Rust, WebGPU and Web. |
 | **[Silicio Socratico](https://github.com/plantacerium/SilicioSocratico)** | **Thinking Code** | Intelligence Configuration, Socratic Agent, Get Domain Knowledge. |
 | **[Silice Code Base Mapper](https://github.com/plantacerium/SIliceCodeBaseMapper)** | **Codebase to Knowledge Graph** | It transforms codebases into a Structured Knowledge Graph optimized for LLMs ingestion. |
-| **[Resonant Planet](https://github.com/plantacerium/ResonantPlanet)** | **Biósfera sónica interactiva** | Transforma archivos de audio y texto en capas geológicas de un planeta de conciencia. |
+| **[Resonant Planet](https://github.com/plantacerium/ResonantPlanet)** | **Biósfera sónica interactiva** | Transforma archivos de audio y texto en capas geológicas de un planeta de consciencia. |
 | **[Gaia Human Synapse](https://github.com/plantacerium/GaiaHumanSynapse)** | **Protocolo de CoEvolución Biodigital** | El software es el micelio de la mente; el hardware es la tierra de Gaia. Nosotros somos la sinapsis que permite al planeta soñar en binario. |
 ---
 
