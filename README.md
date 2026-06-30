@@ -18,7 +18,7 @@ Here is how my current architecture drives impact across the stack.
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
 | **[Metamorphic Resonance Human Language Gamers](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers)** | **Language Meditators Gamers Legends** | ⊛ Consciousness Architecture ⊛ |
-| **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
+| **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Languages Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
 | **[Mandala Weaver VCS](https://github.com/plantacerium/Mandala-Weaver-VCS)** | **Versions Cooperation System** | VCS Engine Spatial, Radial, Semantic. In this system, code emanates as pure logic units from an immutable center toward concentric rings of evolution  |
 | **[Git AST Search](https://github.com/plantacerium/Git-AST-Search)** | **Search Code & Patterns Across Git History** |  Git AST Search is a high-performance terminal user interface TUI tool designed for historical code mining, this tool leverages Abstract Syntax Tree Analysis to find exact code structures, across all the Git History. |
 | **[Gocurvicnamics](https://github.com/plantacerium/Gocurvicnamics)** | **Collisions Particle Game** |  Kinetic collisions trajectory based strategy game. |
