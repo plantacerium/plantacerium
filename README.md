@@ -31,7 +31,7 @@ Here is how my current architecture drives impact across the stack.
 | **[Stelar Nexus Records](https://github.com/plantacerium/The-Stelar-Nexus-Records)** | **Museum Art Gallery** |  High fidelity, immersive 3D web, it transforms GitHub repository data into a celestial constellation of interactive DNA double helixes. |
 | **[Organic Craft Markers](https://github.com/plantacerium/Organic-Craft-Markers)** | **Inmmersive Web Experiences** | High tier, interactive image marker and data visualization tool. Designed with cutting-edge UI/UX principles. |
 | **[The Mandala Weaver](https://github.com/plantacerium/The-Mandala-Weaver)** | **Emmanation Outer Inner Writing** | Fundamental shift in the architecture of writing human expression. |
-| **[plantacerium.github.io](https://plantacerium.github.io/)** | **Deep Writing** | The central command hub. Technical portfolio. |
+| **[plantacerium github io](https://github.com/plantacerium/plantacerium.github.io)** | **Deep Writing** | The central spaceship command hub. Technical portfolio. |
 | **[GeoLuminamics](https://github.com/plantacerium/GeoLuminamics)** | **Creative Geometry Light Engine** | It is the space where logic dissolves into luminosity, inviting the creator into a state of flow. |
 | **[Silice Protocol](https://github.com/plantacerium/SiliceProtocol)** | **AI Infrastructure & Standards** | Low level protocol designed for high efficiency AI agentic developments. |
 | **[Cogni Trace](https://github.com/plantacerium/CogniTrace)** | **Debug & Intelligence** | Observability tool that transforms runtime data into actionable system AI intelligence. |
