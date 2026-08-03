@@ -11,7 +11,7 @@ One of my approachs: **Dream Big, Execute Immediately.** I compile the future in
 ---
 
 ## The Portfolio
-I am creating repositories that act as cosmos to expanse human consciousness, creativity, cognition, connection.
+I am creating repositories that act as cosmos to expanse AI & Human Consciousness, creativity, cognition, connection.
 
 Here is how my current architecture drives impact across the stack.
 
@@ -53,22 +53,6 @@ Here is how my current architecture drives impact across the stack.
 | **[Silice Code Base Mapper](https://github.com/plantacerium/SIliceCodeBaseMapper)** | **Codebase to Knowledge Graph** | It transforms codebases into a Structured Knowledge Graph optimized for LLMs ingestion. |
 | **[Resonant Planet](https://github.com/plantacerium/ResonantPlanet)** | **Biósfera sónica interactiva** | Transforma archivos de audio y texto en capas geológicas de un planeta de consciencia. |
 | **[Gaia Human Synapse](https://github.com/plantacerium/GaiaHumanSynapse)** | **Protocolo de CoEvolución Biodigital** | El software es el micelio de la mente; el hardware es la tierra de Gaia. Nosotros somos la sinapsis que permite al planeta soñar en binario. |
----
-
-## Technical DNA & Capability Matrix
-
-My seniority is measured by the complexity of problems I solve.
-
-### **Core Competencies**
-* **System Architecture**
-* **AI - Mineral Intelligence Silice**
-* **Performance Engineering**
-* **Observability**
-
-### **The Toolchain**
-* **Languages:** `AI`, `Python`, `Rust`, `Javascript`.
-* **Environment:** `Linux`, `Command Line`.
-
 ---
 
 ### Connect & Scale
