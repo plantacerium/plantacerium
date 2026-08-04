@@ -1,4 +1,4 @@
-# Plantacerium Architect Engineer Strategist Infinity Dreamer.
+# Plantacerium.
 
 ### *Precision Engineering. Immediate Scale. Unbounded Vision.*
 
