@@ -13,7 +13,8 @@ I am available for high-level architectural consulting, collaborative innovation
 - **YouTube Channel Oculaverse**: [Oculaverse](https://www.youtube.com/@Oculaverse)
 - **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
   * Remember to Push All the Buttons.
-  * 
+ 
+
 ---
 
 ## I create Softwares, Games, Apps.
