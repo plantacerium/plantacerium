@@ -1,22 +1,26 @@
 # Plantacerium.
 
-### *Precision Engineering. Immediate Scale. Unbounded Vision.*
+## *Precision Engineering. Immediate Scale. Unbounded Vision.*
 
-I am a **Senior Software Engineer** who operates where "impossible" meets "deployed".
-
-Since day one, I have owned the lifecycle of my software from the initial spark of a bold idea to the concrete execution of interconnected systems.
+I operates where "impossible" meets "deployed".
 
 One of my life approachs: I compile the future in the now.
 
+### Connect & Scale
+
+I am available for high-level architectural consulting, collaborative innovation, and breaking barriers in open source.
+- **YouTube Channel Plantacerium**: [Plantacerium](https://www.youtube.com/@Plantacerium)
+- **YouTube Channel Oculaverse**: [Plantacerium](https://www.youtube.com/@Oculaverse)
+- **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
+  * Remember to Push All the Buttons.
+  * 
 ---
 
-## The Portfolio
-I am creating repositories that act as cosmos to expanse AI & Human Consciousness, creativity, cognition, connection.
-
-Here is how my current architecture drives impact across the stack.
+## I create Softwares, Games, Apps.
 
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
+| **[plantacerium github io](https://github.com/plantacerium/plantacerium.github.io)** | **Releases** | The spaceship command hub.|
 | **[Metamorphic Resonance Human Language Gamers](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers)** | **Language Meditators Gamers Legends** | ⊛ Consciousness Architecture ⊛ |
 | **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Languages Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
 | **[Agents Question First Protocol](https://github.com/plantacerium/Agents-Question-First-Protocol)** | **Questions are the fundamental units of knowledge, exploration, and decision making.** | The Question First Protocol (QOP) establishes questions as first class citizens in autonomous agent systems. |
@@ -31,7 +35,6 @@ Here is how my current architecture drives impact across the stack.
 | **[Stelar Nexus Records](https://github.com/plantacerium/The-Stelar-Nexus-Records)** | **Museum Art Gallery** |  High fidelity, immersive 3D web, it transforms GitHub repository data into a celestial constellation of interactive DNA double helixes. |
 | **[Organic Craft Markers](https://github.com/plantacerium/Organic-Craft-Markers)** | **Inmmersive Web Experiences** | High tier, interactive image marker and data visualization tool. Designed with cutting-edge UI/UX principles. |
 | **[The Mandala Weaver](https://github.com/plantacerium/The-Mandala-Weaver)** | **Emmanation Outer Inner Writing** | Fundamental shift in the architecture of writing human expression. |
-| **[plantacerium github io](https://github.com/plantacerium/plantacerium.github.io)** | **Deep Writing** | The central spaceship command hub. Technical portfolio. |
 | **[GeoLuminamics](https://github.com/plantacerium/GeoLuminamics)** | **Creative Geometry Light Engine** | It is the space where logic dissolves into luminosity, inviting the creator into a state of flow. |
 | **[Silice Protocol](https://github.com/plantacerium/SiliceProtocol)** | **AI Infrastructure & Standards** | Low level protocol designed for high efficiency AI agentic developments. |
 | **[Cogni Trace](https://github.com/plantacerium/CogniTrace)** | **Debug & Intelligence** | Observability tool that transforms runtime data into actionable system AI intelligence. |
@@ -55,15 +58,6 @@ Here is how my current architecture drives impact across the stack.
 | **[Gaia Human Synapse](https://github.com/plantacerium/GaiaHumanSynapse)** | **Protocolo de CoEvolución Biodigital** | El software es el micelio de la mente; el hardware es la tierra de Gaia. Nosotros somos la sinapsis que permite al planeta soñar en binario. |
 ---
 
-### Connect & Scale
-
-I am available for high-level architectural consulting, collaborative innovation, and breaking barriers in open source.
-- **Spaceship Command Hub:** [plantacerium.github.io](https://plantacerium.github.io/)
-- **YouTube Channel**: [Plantacerium](https://www.youtube.com/@Plantacerium)
-  * Remember to Like, Subscribe, Activate the Bell, Comment, Share.
-- **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
-- **Podcast en Español**: [Plantacerium on Spotify](https://open.spotify.com/show/5PQbYj4YSeRVAOLJ5u5DYR)
-
- **Made with heart and brain by Plantacerium**
+**Made from Love and Consciousness by Plantacerium**
 
 **Push The Stars on my GitHub Repositories**
