@@ -21,7 +21,7 @@ I am available for high-level architectural consulting, collaborative innovation
 
 | System / Repository | Domain & Strategy | Technical Impact |
 | :--- | :--- | :--- |
-| **[plantacerium github io](https://github.com/plantacerium/plantacerium.github.io)** | **Releases** | The spaceship command hub.|
+| **[plantacerium github io](https://github.com/plantacerium/plantacerium.github.io)** | **Showcase** | The spaceship command hub.|
 | **[Metamorphic Resonance Human Language Gamers](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers)** | **Language Meditators Gamers Legends** | ⊛ Consciousness Architecture ⊛ |
 | **[MRHLG Memory Modules](https://github.com/plantacerium/Metamorphic-Resonance-Human-Language-Gamers-Memory-Modules)** | **Memory Modules JSON** | Languages Schemas.json and Games.json, Fork, Pull Request, Contribute, License MIT. |
 | **[Agents Question First Protocol](https://github.com/plantacerium/Agents-Question-First-Protocol)** | **Questions are the fundamental units of knowledge, exploration, and decision making.** | The Question First Protocol (QOP) establishes questions as first class citizens in autonomous agent systems. |
