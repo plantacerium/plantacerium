@@ -9,8 +9,8 @@ One of my life approachs: I compile the future in the now.
 ### Connect & Scale
 
 I am available for high-level architectural consulting, collaborative innovation, and breaking barriers in open source.
-- **YouTube Channel Plantacerium**: [Plantacerium](https://www.youtube.com/@Plantacerium)
-- **YouTube Channel Oculaverse**: [Oculaverse](https://www.youtube.com/@Oculaverse)
+- **YouTube Channel Plantacerium All In**: [Plantacerium](https://www.youtube.com/@Plantacerium)
+- **YouTube Channel Oculaverse Apps**: [Oculaverse](https://www.youtube.com/@Oculaverse)
 - **Support my work on**: [Ko-Fi Plantacerium](https://ko-fi.com/plantacerium)
   * Remember to Push All the Buttons.
  
