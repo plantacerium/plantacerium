@@ -12,7 +12,8 @@ Software is crystallized light. When focused through an architectural prism, it 
 
 ### Connect
 * **Spaceship Command Hub**: [plantacerium.github.io](https://github.com/plantacerium/plantacerium.github.io)
-* **YouTube**: [@Plantacerium](https://www.youtube.com/@Plantacerium) *Wild Land* · [@Oculaverse](https://www.youtube.com/@Oculaverse) *Apps and Games*
+* **YouTube**: [@Plantacerium](https://www.youtube.com/@Plantacerium) *Wild Land* ·
+* **YouTube** [@Oculaverse](https://www.youtube.com/@Oculaverse) *Apps, Softwares, Games*
 * **Patronage**: [ko-fi.com/plantacerium](https://ko-fi.com/plantacerium) ·
 
 ---
